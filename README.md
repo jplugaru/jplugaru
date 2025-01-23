@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🫡
-
 <!--
 **jplugaru/jplugaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,17 +18,14 @@ Here are some ideas to get you started:
 # Hello, I'm Jonathan Plugaru
 <a href="[https://linkedin.com](https://www.linkedin.com/in/jonathanplugaru/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am an IT Project Manager with 6 years of cumulative experience managing a variety of projects across the telecommunications, healthcare, and automotive industries. I also have two years of experience as a Data Loss Prevention Analyst. I have a profound interest in technology and love solving problems. Technology is enlightening to get work done, from cloud computing, to artificial intelligence, to needing to ensure that it is secure using cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in my career so far has led me to develop a passion for cybersecurity, and I am now eager to immerse myself into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Cybersecurity Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -42,7 +37,6 @@ My journey in my career so far has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -65,7 +59,6 @@ My journey in my career so far has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-PMP-007ACC?&style=for-the-badge&logo=project-management&logoColor=white" />
