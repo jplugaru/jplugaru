@@ -30,7 +30,7 @@ My journey in my career so far has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/jplugaru/Homelab">SIEM Implementation</a>|
-| Network Traffic Monitoring and Attack Detection | Coming Soon |
+| Security Operations Center Automation         | <a href="https://github.com/jplugaru/SOC-Automation/"> SOC Automation |
 
 ## Tools
 
@@ -52,6 +52,7 @@ My journey in my career so far has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-800000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
@@ -60,8 +61,3 @@ My journey in my career so far has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-PMP-007ACC?&style=for-the-badge&logo=project-management&logoColor=white" />
 
 </div>
-
-## Projects
-- <a href="https://github.com/jplugaru/Homelab">Home Lab</a>
-- Detection Lab
-- SOC Automation Project
